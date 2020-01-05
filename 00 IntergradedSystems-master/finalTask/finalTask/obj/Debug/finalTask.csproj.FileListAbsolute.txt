@@ -1,0 +1,86 @@
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\bin\Debug\finalTask.exe.config
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\bin\Debug\finalTask.exe
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\bin\Debug\finalTask.pdb
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.csprojAssemblyReference.cache
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.Agenda.resources
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.Form1.resources
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.Properties.Resources.resources
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.csproj.GenerateResource.cache
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.csproj.CoreCompileInputs.cache
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.exe
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.pdb
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.csproj.ResolveComReference.cache
+C:\Users\Ermioni\Desktop\agapi\IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.MusicPlayer.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\bin\Debug\finalTask.exe.config
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\bin\Debug\finalTask.exe
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\bin\Debug\finalTask.pdb
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\finalTask.csprojAssemblyReference.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\finalTask.csproj.ResolveComReference.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\finalTask.Agenda.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\finalTask.Form1.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\finalTask.MusicPlayer.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\finalTask.Properties.Resources.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\finalTask.csproj.GenerateResource.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\finalTask.csproj.CoreCompileInputs.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\finalTask.exe
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer\finalTask\finalTask\obj\Debug\finalTask.pdb
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\bin\Debug\finalTask.exe.config
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\bin\Debug\finalTask.exe
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\bin\Debug\finalTask.pdb
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\finalTask.csprojAssemblyReference.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\finalTask.csproj.ResolveComReference.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\finalTask.Agenda.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\finalTask.Form1.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\finalTask.MusicPlayer.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\finalTask.Properties.Resources.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\finalTask.csproj.GenerateResource.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\finalTask.csproj.CoreCompileInputs.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\finalTask.exe
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master - withMediaPlayer_Playlist\finalTask\finalTask\obj\Debug\finalTask.pdb
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\bin\Debug\finalTask.exe.config
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\bin\Debug\finalTask.exe
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\bin\Debug\finalTask.pdb
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\finalTask.csprojAssemblyReference.cache
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\finalTask.csproj.ResolveComReference.cache
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\finalTask.Agenda.resources
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\finalTask.Form1.resources
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\finalTask.Properties.Resources.resources
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\finalTask.csproj.GenerateResource.cache
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\finalTask.csproj.CoreCompileInputs.cache
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\finalTask.exe
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\finalTask.pdb
+C:\Users\Ermioni\Desktop\agapi\DataGridView\finalTask\finalTask\obj\Debug\finalTask.MusicPlayer.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\bin\Debug\finalTask.exe.config
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\bin\Debug\finalTask.exe
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\bin\Debug\finalTask.pdb
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.csprojAssemblyReference.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.csproj.ResolveComReference.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.Agenda.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.Form1.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.MusicPlayer.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.Properties.Resources.resources
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.csproj.GenerateResource.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.csproj.CoreCompileInputs.cache
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.exe
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.pdb
+C:\Users\Ermioni\Desktop\agapi\00 IntergradedSystems-master\finalTask\finalTask\obj\Debug\finalTask.Calendar.resources
